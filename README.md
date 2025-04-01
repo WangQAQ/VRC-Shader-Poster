@@ -76,6 +76,8 @@
 
 支持的图片格式为`.png`, `.jpg`, `.jpeg`
 
+可以使用文件夹中自带的图片来测试一下。
+
 ## 版权声明
 shader & U# by WangQAQ
 UI示例 by COCOA GAME
